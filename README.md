@@ -2,7 +2,7 @@
 
 This is a code package is related to the follow scientific article:
 
-Sepideh Ghandalia, Hamid Meghdadia, Ali Shahzadi,"Ergodic Capacity Estimation in the Uplink of Large Intelligent Surfaces with Linear Receivers", Physical Communication
+Sepideh Ghandali, Hamid Meghdadia, Ali Shahzadi,"Ergodic Capacity Estimation in the Uplink of Large Intelligent Surfaces with Linear Receivers", Physical Communication
 
 The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. 
 
