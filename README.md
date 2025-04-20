@@ -1,4 +1,4 @@
-# LIS-Ergodic-Capacity-Estimation-
+# LIS-Ergodic-Capacity-Estimation
 
 This is a code package is related to the follow scientific article:
 
